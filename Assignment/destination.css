@@ -1,0 +1,23 @@
+body{
+    color: aqua;
+    background-color: rgb(59, 91, 91);
+    font-size: 35px ;
+    margin:15px ;
+    padding: 25px;
+}
+form input{
+size: 125px;
+
+}
+#home{
+    padding: 5px;
+    margin: 250px;
+    text-decoration: none;
+    color: rgb(13, 39, 39);
+    font-size: 25px;
+}
+#home:hover{
+    font-size: 35px;
+    color: blue;
+
+}
